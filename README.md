@@ -3,5 +3,5 @@ This was my submission for the Bumpers Homework Competition for the course Intro
 ## Introduction
 FishyBumpers is a game about fish eating eachother. The idea of the homework competition was to implement a creative collision mechanism. My idea was to have a game, where the player controlls a fish and tries to eat fish smaller than himself/herself. When enough fish is eaten the player grows a level and can eat bigger fish. THe objective is to eat all the fish and win. There are 3 difficulty levels, with a hidden "Nightmare" difficulty only unlockable by defeating the game in "Hard" difficulty. The game also features a shark that attacks in random intervals entering from 6 random points on the screen.
 ## Controls
-The player fish is controlled entirely with the mouse.
+The player fish is controlled entirely with the mouse. Difficulty selection, pausing and starting the game can be done with the keyboard and/or mouse.
 ## Screenshots
