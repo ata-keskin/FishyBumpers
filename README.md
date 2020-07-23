@@ -5,7 +5,7 @@ FishyBumpers is a game about fish eating eachother. The idea of the homework com
 ## Controls
 The player fish is controlled entirely with the mouse. Difficulty selection, pausing and starting the game can be done with the keyboard and/or mouse.
 ## Technical Details
-The class that handles the game logic is [GameBoard.java](https://github.com/atakeskinn/FishyBumpers/blob/master/src/de/tum/in/ase/eist/GameBoard.java). The collision detection is done by [DevouringCollision.java](). The class [GameBoardUI.java]() handles the initialization and draws the textures.
+The class that handles the game logic is [GameBoard.java](https://github.com/atakeskinn/FishyBumpers/blob/master/src/de/tum/in/ase/eist/GameBoard.java). The collision detection is done by [DevouringCollision.java](https://github.com/atakeskinn/FishyBumpers/blob/master/src/de/tum/in/ase/eist/collision/DevouringCollision.java). The class [GameBoardUI.java](https://github.com/atakeskinn/FishyBumpers/blob/master/src/de/tum/in/ase/eist/gameview/GameBoardUI.java) handles the initialization and draws the textures.
 ## Screenshots
 (The gifs may be slow, I captured them with OBSStudio. The game runs fine (~60fps))
 ![Game Overview](https://i.imgur.com/c38Czg0.png)
