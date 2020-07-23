@@ -8,5 +8,5 @@ The player fish is controlled entirely with the mouse. Difficulty selection, pau
 The class that handles the game logic is [GameBoard.java](). The collision detection is done by [DevouringCollision.java](). The class [GameBoardUI.java]() handles the initialization and draws the textures.
 ## Screenshots
 ![Game Overview](https://i.imgur.com/c38Czg0.png)
-![Movement, Eating](https://i.imgur.com/dOBkdZp.gifv)
+![Movement, Eating]()
 ![Shark Attack]()
