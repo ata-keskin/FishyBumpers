@@ -7,6 +7,7 @@ The player fish is controlled entirely with the mouse. Difficulty selection, pau
 ## Technical Details
 The class that handles the game logic is [GameBoard.java](). The collision detection is done by [DevouringCollision.java](). The class [GameBoardUI.java]() handles the initialization and draws the textures.
 ## Screenshots
+(The gifs may be slow, I captured them with OBSStudio. The game runs fine (~60fps))
 ![Game Overview](https://i.imgur.com/c38Czg0.png)
 ![Movement, Eating](https://github.com/atakeskinn/FishyBumpers/blob/master/demo/movement.gif)
 ![Shark Attack](https://github.com/atakeskinn/FishyBumpers/blob/master/demo/shark.gif)
